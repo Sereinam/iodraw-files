@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tfBemI0MkmiT9Mpxfqia-1" value="目标：同时优化M、W" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体GB2312;fontSize=18;labelBorderColor=default;" vertex="1" parent="1">
+        <mxCell id="tfBemI0MkmiT9Mpxfqia-1" value="目标：同时优化M、W" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体GB2312;fontSize=18;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="79" y="-239" width="198" height="60" as="geometry" />
         </mxCell>
       </root>
