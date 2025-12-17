@@ -162,7 +162,7 @@
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="1137" y="894" width="73" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="PW4T9lWFQS6XjxpX8iiO-68" value="本底噪声+光子噪声" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="PW4T9lWFQS6XjxpX8iiO-68" value="本底噪声+光子噪声" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=18;fontFamily=楷体_GB2312;" vertex="1" parent="1">
           <mxGeometry x="1137" y="1006" width="73" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;" edge="1" parent="1" source="PW4T9lWFQS6XjxpX8iiO-70" target="PW4T9lWFQS6XjxpX8iiO-74">
