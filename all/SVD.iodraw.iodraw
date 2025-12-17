@@ -81,11 +81,11 @@
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="134.97" y="-1552.5" width="711" height="219" as="geometry" />
         </mxCell>
-        <mxCell id="PW4T9lWFQS6XjxpX8iiO-26" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;表示某像素在某波长光经过染色组织，经CCD传感器捕捉后的最终光强度&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;" vertex="1" parent="1">
+        <mxCell id="PW4T9lWFQS6XjxpX8iiO-26" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;表示某像素p在某波长光经过染色组织，经CCD传感器捕捉后的最终光强度&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;" vertex="1" parent="1">
           <mxGeometry x="608" y="-1146" width="369" height="116" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-28" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;对可见过范围（λmax-λmin）进行积分，计算可见光对该像素p的贡献&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;" vertex="1" parent="1">
-          <mxGeometry x="-138" y="-1061" width="369" height="116" as="geometry" />
+          <mxGeometry x="-138" y="-1061" width="399" height="116" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
