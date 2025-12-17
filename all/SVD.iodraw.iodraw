@@ -156,8 +156,13 @@
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-62" value="本底噪声" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1031" y="1031" width="76" height="43.97" as="geometry" />
         </mxCell>
+        <mxCell id="PW4T9lWFQS6XjxpX8iiO-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PW4T9lWFQS6XjxpX8iiO-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1173.4999999999995" y="1013.0150318975038" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1137" y="892" width="59" height="43.97" as="geometry" />
+          <mxGeometry x="1137" y="892" width="73" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
