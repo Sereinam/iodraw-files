@@ -99,6 +99,9 @@
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-39" value="&lt;font face=&quot;楷体_GB2312&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;空白图像&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="728" y="568" width="133" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="PW4T9lWFQS6XjxpX8iiO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PW4T9lWFQS6XjxpX8iiO-40" target="PW4T9lWFQS6XjxpX8iiO-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-40" value="&lt;font face=&quot;楷体_GB2312&quot; style=&quot;font-size: 25px;&quot;&gt;暗帧图像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="728" y="714" width="123.03" height="41" as="geometry" />
         </mxCell>
@@ -113,6 +116,9 @@
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-44" value="&lt;font face=&quot;楷体_GB2312&quot;&gt;本底噪声&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="905" y="721" width="102" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="PW4T9lWFQS6XjxpX8iiO-46" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1054" y="561" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
