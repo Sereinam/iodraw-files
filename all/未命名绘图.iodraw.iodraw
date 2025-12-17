@@ -82,7 +82,7 @@
         <mxCell id="tfBemI0MkmiT9Mpxfqia-27" value="优化阶段" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=25;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="459" y="-95" width="198" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tfBemI0MkmiT9Mpxfqia-28" value="优化阶段" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=25;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="tfBemI0MkmiT9Mpxfqia-28" value="归一化阶段" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=25;labelBorderColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-418" y="383" width="198" height="60" as="geometry" />
         </mxCell>
       </root>
