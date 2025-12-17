@@ -160,13 +160,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1137" y="892" width="73" height="34" as="geometry" />
+          <mxGeometry x="1137" y="894" width="73" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-68" value="本底噪声+光子噪声" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1137" y="1006" width="73" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1137" y="892" width="76" height="43.97" as="geometry" />
+          <mxGeometry x="1170" y="977" width="210" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
