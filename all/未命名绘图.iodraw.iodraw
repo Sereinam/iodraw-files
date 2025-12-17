@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="vz5VD4OLDilijHBMtPJz">
-    <mxGraphModel dx="1599" dy="1114" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1999" dy="1114" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,8 +52,8 @@
         <mxCell id="tfBemI0MkmiT9Mpxfqia-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-298" y="77" width="20" height="224" as="geometry" />
         </mxCell>
-        <mxCell id="tfBemI0MkmiT9Mpxfqia-19" value="优化M，保证M中的染色向量是纯染色向量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=18;labelBorderColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-317" y="-79.5" width="198" height="60" as="geometry" />
+        <mxCell id="tfBemI0MkmiT9Mpxfqia-19" value="控制优化W染色浓度比例矩阵为最优" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=18;labelBorderColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="92" width="127" height="189" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
