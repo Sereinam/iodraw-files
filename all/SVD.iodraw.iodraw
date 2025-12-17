@@ -70,10 +70,10 @@
           <mxGeometry x="-173" y="-1769" width="369" height="116" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-23" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;遵循Beer-Lambert定律，经过组织吸收后透过的染色强度&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;" vertex="1" parent="1">
-          <mxGeometry x="184" y="-1247" width="369" height="116" as="geometry" />
+          <mxGeometry x="104" y="-1244" width="369" height="116" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="114" y="-1557" width="711" height="219" as="geometry" />
+          <mxGeometry x="134.97" y="-1552.5" width="711" height="219" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
