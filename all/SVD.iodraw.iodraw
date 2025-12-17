@@ -22,8 +22,8 @@
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="581" y="165" width="81" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PW4T9lWFQS6XjxpX8iiO-9" value="对应染色向量矩阵" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="237" y="460" width="223" height="111" as="geometry" />
+        <mxCell id="PW4T9lWFQS6XjxpX8iiO-9" value="每个对角元素对应某种染色在图像中的分布量，例，H：100，E：80，背景：1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="237" y="460" width="261" height="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
