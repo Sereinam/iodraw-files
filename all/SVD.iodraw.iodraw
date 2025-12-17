@@ -169,10 +169,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1273" y="1032" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1302" y="1013" />
-              <mxPoint x="1247" y="1013" />
-              <mxPoint x="1247" y="1032" />
-              <mxPoint x="1324" y="1032" />
+              <mxPoint x="1302" y="1032" />
+              <mxPoint x="1299" y="1032" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -180,7 +178,7 @@
           <mxGeometry x="1137" y="894" width="220" height="74" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-74" value="纯光子噪声" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1286" y="1043" width="76" height="43.97" as="geometry" />
+          <mxGeometry x="1273" y="1054" width="76" height="43.97" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
