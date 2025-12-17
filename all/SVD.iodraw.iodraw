@@ -11,7 +11,10 @@
           <mxGeometry x="179" y="350" width="432" height="240" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="491" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="491" y="170" width="56" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="PW4T9lWFQS6XjxpX8iiO-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="501" y="180" width="90" height="122" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
