@@ -55,8 +55,8 @@
         <mxCell id="tfBemI0MkmiT9Mpxfqia-19" value="控制优化W染色浓度比例矩阵为最优" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=18;labelBorderColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-412" y="150.5" width="114" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="tfBemI0MkmiT9Mpxfqia-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-433" y="-104" width="304" height="229" as="geometry" />
+        <mxCell id="tfBemI0MkmiT9Mpxfqia-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-433" y="-104" width="809" height="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
