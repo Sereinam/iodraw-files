@@ -49,6 +49,9 @@
         <mxCell id="tfBemI0MkmiT9Mpxfqia-16" value="&lt;font&gt;使W矩阵中的染色总强度贴近标准染色总强度&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=18;labelBorderColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-267" y="244" width="216" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tfBemI0MkmiT9Mpxfqia-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-302" y="65" width="20" height="224" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
