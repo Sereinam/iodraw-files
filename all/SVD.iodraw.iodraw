@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PW4T9lWFQS6XjxpX8iiO-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1137" y="894" width="220" height="74" as="geometry" />
+        </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF8000;strokeWidth=5;fontColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="134.97" y="-1552.5" width="711" height="219" as="geometry" />
         </mxCell>
@@ -156,10 +159,10 @@
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-62" value="本底噪声" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1031" y="1031" width="76" height="43.97" as="geometry" />
         </mxCell>
-        <mxCell id="PW4T9lWFQS6XjxpX8iiO-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PW4T9lWFQS6XjxpX8iiO-64" target="PW4T9lWFQS6XjxpX8iiO-68">
+        <mxCell id="PW4T9lWFQS6XjxpX8iiO-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00FF00;" edge="1" parent="1" source="PW4T9lWFQS6XjxpX8iiO-64" target="PW4T9lWFQS6XjxpX8iiO-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PW4T9lWFQS6XjxpX8iiO-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PW4T9lWFQS6XjxpX8iiO-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="1137" y="894" width="73" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-68" value="本底噪声+光子噪声" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
@@ -172,9 +175,6 @@
               <mxPoint x="1312" y="983" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="PW4T9lWFQS6XjxpX8iiO-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1137" y="894" width="220" height="74" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-74" value="纯光子噪声" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1272" y="1031" width="76" height="43.97" as="geometry" />
