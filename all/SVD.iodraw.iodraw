@@ -76,13 +76,13 @@
           <mxGeometry x="-173" y="-1769" width="369" height="116" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-23" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;遵循Beer-Lambert定律，经过组织吸收后透过的染色强度&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;strokeColor=#00FFFF;fontColor=#00FFFF;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="104" y="-1244" width="369" height="116" as="geometry" />
+          <mxGeometry x="217.5" y="-1255" width="369" height="116" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;strokeWidth=5;fontColor=#FF8000;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PW4T9lWFQS6XjxpX8iiO-25" target="PW4T9lWFQS6XjxpX8iiO-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-26" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;表示某像素p在某波长光经过染色组织，经CCD传感器捕捉后的最终光强度&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;strokeColor=#FF8000;strokeWidth=5;fontColor=#FF8000;" vertex="1" parent="1">
-          <mxGeometry x="608" y="-1146" width="369" height="116" as="geometry" />
+          <mxGeometry x="484" y="-1063" width="369" height="116" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-28" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;font color=&quot;#9933ff&quot;&gt;对可见过范围（λmax-λmin）进行积分，计算可见光对该像素p的贡献&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;strokeColor=#9933FF;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="-138" y="-1061" width="399" height="116" as="geometry" />
