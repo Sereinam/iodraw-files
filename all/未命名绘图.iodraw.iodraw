@@ -37,7 +37,7 @@
             <mxPoint x="-24" y="95.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tfBemI0MkmiT9Mpxfqia-14" value="使W矩阵中的染色浓度比例贴近标准染色浓度比例" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体GB2312;fontSize=18;labelBorderColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="tfBemI0MkmiT9Mpxfqia-14" value="&lt;font face=&quot;楷体GB2312&quot;&gt;使W矩阵中的染色浓度比例贴近标准染色浓度比例&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;labelBorderColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-269" y="65" width="216" height="60" as="geometry" />
         </mxCell>
       </root>
