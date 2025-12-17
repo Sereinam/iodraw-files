@@ -88,7 +88,7 @@
           <mxGeometry x="-107.5" y="-1114" width="399" height="116" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-33" value="噪声建模（模拟真实噪声）：研究光子噪声和CCD传感器噪声" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=楷体_GB2312;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="687" y="358" width="344" height="60" as="geometry" />
+          <mxGeometry x="716" y="772" width="344" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-36" value="&lt;font face=&quot;楷体_GB2312&quot; style=&quot;font-size: 25px;&quot;&gt;两类图像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="668" y="593" width="35" height="137" as="geometry" />
@@ -174,7 +174,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-74" value="纯光子噪声" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=楷体_GB2312;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1272" y="1031" width="76" height="43.97" as="geometry" />
+          <mxGeometry x="1272" y="1031" width="109" height="43.97" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="1137" y="894" width="220" height="74" as="geometry" />
