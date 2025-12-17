@@ -8,7 +8,7 @@
           <mxGeometry x="111" y="160" width="561.92" height="95" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-3" value="对应染色向量矩阵" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fontColor=#FF0000;strokeColor=#FF0000;strokeWidth=5;fontFamily=楷体_GB2312;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="479" width="223" height="111" as="geometry" />
+          <mxGeometry x="-100" y="479" width="271" height="66" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=5;" edge="1" parent="1" source="PW4T9lWFQS6XjxpX8iiO-4" target="PW4T9lWFQS6XjxpX8iiO-3">
           <mxGeometry relative="1" as="geometry" />
@@ -34,10 +34,10 @@
           <mxGeometry x="581" y="165" width="81" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-9" value="每个对角元素对应某种染色在图像中的分布量，例，H：100，E：80，背景：1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;strokeColor=#00CC66;strokeWidth=5;fontFamily=楷体_GB2312;" vertex="1" parent="1">
-          <mxGeometry x="237" y="460" width="261" height="155" as="geometry" />
+          <mxGeometry x="237" y="460" width="296" height="164" as="geometry" />
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-10" value="&lt;font color=&quot;#6600cc&quot; style=&quot;font-size: 30px;&quot;&gt;3xMN，表示每个染色在每个像素中所占染色浓度的权重占比&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;strokeColor=#7F00FF;fontFamily=楷体_GB2312;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="619" y="469" width="261" height="155" as="geometry" />
+          <mxGeometry x="619" y="469" width="305" height="169" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
