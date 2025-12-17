@@ -165,8 +165,9 @@
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-68" value="本底噪声+光子噪声" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1137" y="1006" width="73" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="PW4T9lWFQS6XjxpX8iiO-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PW4T9lWFQS6XjxpX8iiO-70" target="PW4T9lWFQS6XjxpX8iiO-68">
+        <mxCell id="PW4T9lWFQS6XjxpX8iiO-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PW4T9lWFQS6XjxpX8iiO-70">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1273" y="1032" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1247" y="1013" />
             </Array>
@@ -174,6 +175,9 @@
         </mxCell>
         <mxCell id="PW4T9lWFQS6XjxpX8iiO-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1137" y="894" width="220" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="PW4T9lWFQS6XjxpX8iiO-74" value="纯光子噪声" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1246.1" y="1034" width="76" height="43.97" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
