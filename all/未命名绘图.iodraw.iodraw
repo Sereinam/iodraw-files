@@ -58,11 +58,14 @@
         <mxCell id="tfBemI0MkmiT9Mpxfqia-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-433" y="-104" width="809" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="tfBemI0MkmiT9Mpxfqia-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="tfBemI0MkmiT9Mpxfqia-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tfBemI0MkmiT9Mpxfqia-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="618" y="91" as="sourcePoint" />
-            <mxPoint x="846" y="101" as="targetPoint" />
+            <mxPoint x="826" y="121" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tfBemI0MkmiT9Mpxfqia-22" value="目标：同时优化M、W" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=18;labelBorderColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="89" y="-229" width="198" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
