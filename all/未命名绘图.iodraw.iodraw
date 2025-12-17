@@ -79,6 +79,9 @@
         <mxCell id="tfBemI0MkmiT9Mpxfqia-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00FFFF;dashed=1;dashPattern=8 8;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="-449" y="367" width="1503" height="275" as="geometry" />
         </mxCell>
+        <mxCell id="tfBemI0MkmiT9Mpxfqia-27" value="优化阶段" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=18;labelBorderColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="459" y="-95" width="198" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
