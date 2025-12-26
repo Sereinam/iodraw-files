@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bUtfFx9-BYtrng1RSfSJ-3" value="盲颜色分解（无监督分解）：BCD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="196" y="64" width="120" height="60" as="geometry" />
+        <mxCell id="bUtfFx9-BYtrng1RSfSJ-3" value="&lt;font face=&quot;楷体_GB2312&quot;&gt;盲颜色分解（无监督分解）：BCD&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="196" y="64" width="213" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
