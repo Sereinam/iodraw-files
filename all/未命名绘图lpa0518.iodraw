@@ -10568,7 +10568,7 @@
         </mxCell>
         <mxCell id="TMTta9thVLYy-dYzkokV-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TMTta9thVLYy-dYzkokV-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-18419.875" y="18385.58770572438" as="targetPoint" />
+            <mxPoint x="-18420" y="18307" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TMTta9thVLYy-dYzkokV-3" value="智慧社区健康管理系统" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
@@ -10763,7 +10763,7 @@
           <mxGeometry x="-18098.75" y="18649" width="30" height="292" as="geometry" />
         </mxCell>
         <mxCell id="TMTta9thVLYy-dYzkokV-67" value="后台管理服务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-18237.75" y="18307" width="131" height="28" as="geometry" />
+          <mxGeometry x="-18481" y="18312" width="131" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
