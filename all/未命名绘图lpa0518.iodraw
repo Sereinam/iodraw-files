@@ -10572,7 +10572,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TMTta9thVLYy-dYzkokV-3" value="智慧社区健康管理系统" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-18532.75" y="18226" width="225.75" height="26" as="geometry" />
+          <mxGeometry x="-18622.75" y="18226" width="225.75" height="26" as="geometry" />
         </mxCell>
         <mxCell id="TMTta9thVLYy-dYzkokV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=楷体_GB2312;fontSize=11;strokeColor=default;align=center;verticalAlign=middle;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="TMTta9thVLYy-dYzkokV-9" target="TMTta9thVLYy-dYzkokV-17">
           <mxGeometry relative="1" as="geometry" />
@@ -10635,7 +10635,7 @@
           <mxGeometry x="-18684.75" y="18371.5" width="34" height="222" as="geometry" />
         </mxCell>
         <mxCell id="TMTta9thVLYy-dYzkokV-39" value="医生管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-17983" y="18370" width="34" height="222" as="geometry" />
+          <mxGeometry x="-18060" y="18370" width="34" height="222" as="geometry" />
         </mxCell>
         <mxCell id="TMTta9thVLYy-dYzkokV-42" value="评论管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-18114" y="18370" width="38" height="222" as="geometry" />
