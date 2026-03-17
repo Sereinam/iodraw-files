@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Wm1ELfP-GdwR9ZjUHfPr">
-    <mxGraphModel dx="31990" dy="7140" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="50000" math="0" shadow="0">
+    <mxGraphModel dx="21411" dy="840" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="50000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10566,8 +10566,8 @@
         <mxCell id="TMTta9thVLYy-dYzkokV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontFamily=楷体_GB2312;" edge="1" parent="1" source="TMTta9thVLYy-dYzkokV-3" target="TMTta9thVLYy-dYzkokV-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TMTta9thVLYy-dYzkokV-3" value="红色纪念馆文创商城" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-18532.75" y="18226" width="199" height="26" as="geometry" />
+        <mxCell id="TMTta9thVLYy-dYzkokV-3" value="智慧社区健康管理系统" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-18532.75" y="18226" width="225.75" height="26" as="geometry" />
         </mxCell>
         <mxCell id="TMTta9thVLYy-dYzkokV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=楷体_GB2312;fontSize=11;strokeColor=default;align=center;verticalAlign=middle;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="TMTta9thVLYy-dYzkokV-9" target="TMTta9thVLYy-dYzkokV-17">
           <mxGeometry relative="1" as="geometry" />
