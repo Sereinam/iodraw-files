@@ -10617,7 +10617,7 @@
         <mxCell id="TMTta9thVLYy-dYzkokV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=楷体_GB2312;fontSize=11;strokeColor=default;align=center;verticalAlign=middle;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="TMTta9thVLYy-dYzkokV-20" target="TMTta9thVLYy-dYzkokV-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TMTta9thVLYy-dYzkokV-20" value="藏品浏览和评价" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="TMTta9thVLYy-dYzkokV-20" value="医生会话咨询" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-18714.25" y="18371.5" width="34" height="222" as="geometry" />
         </mxCell>
         <mxCell id="TMTta9thVLYy-dYzkokV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=楷体_GB2312;fontSize=11;strokeColor=default;align=center;verticalAlign=middle;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="TMTta9thVLYy-dYzkokV-24" target="TMTta9thVLYy-dYzkokV-50">
