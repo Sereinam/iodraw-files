@@ -10653,7 +10653,7 @@
         <mxCell id="TMTta9thVLYy-dYzkokV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=楷体_GB2312;fontSize=11;strokeColor=default;align=center;verticalAlign=middle;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="TMTta9thVLYy-dYzkokV-32" target="TMTta9thVLYy-dYzkokV-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TMTta9thVLYy-dYzkokV-32" value="藏品购物车管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="TMTta9thVLYy-dYzkokV-32" value="AI健康咨询" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-18611.25" y="18371.5" width="34" height="222" as="geometry" />
         </mxCell>
         <mxCell id="TMTta9thVLYy-dYzkokV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=楷体_GB2312;fontSize=11;strokeColor=default;align=center;verticalAlign=middle;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="TMTta9thVLYy-dYzkokV-35" target="TMTta9thVLYy-dYzkokV-45">
