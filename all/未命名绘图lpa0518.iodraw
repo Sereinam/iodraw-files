@@ -10626,13 +10626,13 @@
           <mxGeometry x="-18684.75" y="18371.5" width="34" height="222" as="geometry" />
         </mxCell>
         <mxCell id="TMTta9thVLYy-dYzkokV-39" value="医生管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-18227.25" y="18371.5" width="34" height="222" as="geometry" />
+          <mxGeometry x="-18135" y="18358" width="34" height="222" as="geometry" />
         </mxCell>
         <mxCell id="TMTta9thVLYy-dYzkokV-42" value="评论管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-18121.25" y="18371.5" width="38" height="222" as="geometry" />
+          <mxGeometry x="-18070" y="18371.5" width="38" height="222" as="geometry" />
         </mxCell>
         <mxCell id="TMTta9thVLYy-dYzkokV-44" value="资讯管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-18043.75" y="18371.5" width="34" height="222" as="geometry" />
+          <mxGeometry x="-18289.25" y="18373" width="34" height="222" as="geometry" />
         </mxCell>
         <mxCell id="TMTta9thVLYy-dYzkokV-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="TMTta9thVLYy-dYzkokV-67" target="TMTta9thVLYy-dYzkokV-69">
           <mxGeometry relative="1" as="geometry" />
@@ -10644,7 +10644,7 @@
           <mxGeometry x="-18508.18" y="18370" width="34" height="222" as="geometry" />
         </mxCell>
         <mxCell id="TMTta9thVLYy-dYzkokV-71" value="模型管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-17963" y="18363" width="34" height="222" as="geometry" />
+          <mxGeometry x="-18217" y="18370" width="34" height="222" as="geometry" />
         </mxCell>
         <mxCell id="TMTta9thVLYy-dYzkokV-72" value="健康记录管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-17885" y="18366" width="34" height="222" as="geometry" />
