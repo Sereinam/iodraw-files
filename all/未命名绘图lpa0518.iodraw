@@ -10643,7 +10643,7 @@
         <mxCell id="TMTta9thVLYy-dYzkokV-69" value="用户健康咨询回复" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-18508.18" y="18370" width="34" height="222" as="geometry" />
         </mxCell>
-        <mxCell id="TMTta9thVLYy-dYzkokV-71" value="消息管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="TMTta9thVLYy-dYzkokV-71" value="模型管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-17963" y="18363" width="34" height="222" as="geometry" />
         </mxCell>
       </root>
