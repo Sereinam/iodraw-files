@@ -10762,6 +10762,9 @@
         <mxCell id="TMTta9thVLYy-dYzkokV-65" value="留言信息管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-18098.75" y="18649" width="30" height="292" as="geometry" />
         </mxCell>
+        <mxCell id="TMTta9thVLYy-dYzkokV-67" value="后台管理服务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=楷体_GB2312;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-18237.75" y="18307" width="131" height="28" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
